@@ -27,7 +27,7 @@
         "user": "#007a5a"
     },
     "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/12.png",
+        "background": null,
         "playback": null,
         "admin": null,
         "ambassador": null,

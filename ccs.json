@@ -1,8 +1,8 @@
 {
-    "room": "MamãeFalhei's Room",
-    "author": "MamãeFalhei",
+    "room": "Emocionado's Room",
+    "author": "Emocionado",
     "icon": null,
-    "css": "https://raw.githack.com/MamaeFalhei/customroom/master/room.css",
+    "css": "https://raw.githack.com/Emocionado/customroom/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -31,10 +31,10 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "https://puu.sh/DtlTc/f0cfce4fd3.png",
-        "cohost": "https://puu.sh/DtlTc/f0cfce4fd3.png",
-        "manager": "https://puu.sh/DtlTa/7b6a7df8a3.png",
-        "bouncer": "https://puu.sh/DtlT5/14678d4f8a.png",
+        "host": "https://puu.sh/E9xMC/c11104bf4a.png",
+        "cohost": "https://puu.sh/E9xMC/c11104bf4a.png",
+        "manager": "https://puu.sh/E9xMx/56bda8a9f3.png",
+        "bouncer": "https://puu.sh/E9xMt/5620eb9ec8.png",
         "rdj": null,
         "subscriber": null,
         "silversubscriber": null
